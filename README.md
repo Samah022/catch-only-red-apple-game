@@ -10,7 +10,8 @@ The "Catch Only Red Apple 🍎" game is a simple and entertaining game written i
 
 ### Demo 🎥
 Watch the demo video below to see the game in action!
-<a href="{https://drive.google.com/file/d/1GbKnnLomqoG0YzCuFWhLYCmXbxZSpDOm/view?usp=sharing}" title="Link Title"></a>
+
+https://github.com/Samah022/catch-only-red-apple-game/assets/97039075/700b9b5b-bb31-4855-8894-d2c8984c598c
 
 
 ### How to Play 🎮
