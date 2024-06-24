@@ -8,6 +8,11 @@ The "Catch Only Red Apple 🍎" game is a simple and entertaining game written i
 - **Interactive Gameplay 🕹️:** Use keyboard controls to move the basket and catch the apples.
 - **Challenge 💪:** Test your reflexes by catching only the red apples and avoiding the green ones.
 
+### Demo 🎥
+Watch the demo video below to see the game in action!
+
+<iframe src="https://drive.google.com/file/d/1GbKnnLomqoG0YzCuFWhLYCmXbxZSpDOm/view?usp=sharing" width="380" height="280" allow="autoplay"></iframe>
+
 ### How to Play 🎮
 
 1. Launch the game.
