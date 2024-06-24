@@ -30,3 +30,9 @@ git clone https://github.com/yourusername/catch-only-red-apple.git
 cd catch-only-red-apple/game
 python Game.py
 ```
+
+## Contributors ✍️
+
+- Sana Shamma
+- Salwa Shamma
+- Samah Shamma
