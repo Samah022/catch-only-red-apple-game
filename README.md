@@ -12,6 +12,8 @@ The "Catch Only Red Apple 🍎" game is a simple and entertaining game written i
 Watch the demo video below to see the game in action!
 
 <iframe src="https://drive.google.com/file/d/1GbKnnLomqoG0YzCuFWhLYCmXbxZSpDOm/view?usp=sharing" width="380" height="280" allow="autoplay"></iframe>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1GbKnnLomqoG0YzCuFWhLYCmXbxZSpDOm/view?usp=sharing)
+
 
 ### How to Play 🎮
 
