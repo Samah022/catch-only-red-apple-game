@@ -1,1 +1,0 @@
-# Catch-only-Red-Apple-Game
